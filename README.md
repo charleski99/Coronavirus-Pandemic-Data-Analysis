@@ -1,11 +1,11 @@
 **COVID-19 Project**
 ---
 
-This project aims to gain a deeper understanding of the recent pandemic from its official start to end (Jan 2020 - May 2023) while developing my skills in data cleaning, analysis, and visualization.
+This project aims to gain a deeper understanding of the recent pandemic from its official start to end (Jan 2020 - May 2023) while developing my data cleaning, analysis, and visualization skills. The primary tools used in this project are MySQL and Tableau Public.
 
 
 Process:
-1. Create tables in MySQL and import data from CSV
+1. Create tables in SQL and import data from CSV
 2. Format dates and convert blanks to NULL
 3. Explore and analyze data, aiming to answer education questions
 4. Visualize data in Tableau Public
