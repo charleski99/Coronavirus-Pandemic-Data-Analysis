@@ -7,13 +7,14 @@ This project aims to gain a deeper understanding of the recent pandemic from its
 Process:
 1. Create tables in SQL and import data from CSV
 2. Format dates and convert blanks to NULL
-3. Explore and analyze data, aiming to answer education questions
-4. Visualize data in Tableau Public
+3. Identify important metrics and potential insightful calculations
+4. Explore and analyze data, aiming to answer educational questions
+5. Visualize data in Tableau Public
 
 
-The source of the data is [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data)
+The source of the data is [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
 
-Visualization can be found [here](https://public.tableau.com/views/CovidProject_17116476193810/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Visualization can be found [here](https://public.tableau.com/views/CovidProject_17116476193810/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
 --- 
 Thank you for reviewing my project!
