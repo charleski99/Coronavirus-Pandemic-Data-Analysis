@@ -7,7 +7,7 @@ This project aims to gain a deeper understanding of the recent pandemic from its
 Process:
 1. Create tables in SQL and import data from CSV
 2. Format dates and convert blanks to NULL
-3. Identify important metrics and potential insightful calculations
+3. Identify important metrics and insightful calculations
 4. Explore and analyze data, aiming to answer educational questions
 5. Visualize data in Tableau Public
 
